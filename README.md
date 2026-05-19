@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-> **View the live website:** [Click Here] https://my-portfolio-seven-lemon-46.vercel.app/
+> **View the live website:** https://my-portfolio-seven-lemon-46.vercel.app/
 
 ---
 
